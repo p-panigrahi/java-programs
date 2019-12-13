@@ -1,0 +1,15 @@
+
+public class JavaDemo20 {
+
+	public static void main(String[] args) {
+     int x;
+     for(x=0;x<45;x++){
+   
+   
+     int y=-1;
+     System.out.println("y is ="+y);
+     y=100;
+     System.out.println("y is ="+y);
+	}
+	}
+}
